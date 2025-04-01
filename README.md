@@ -14,3 +14,18 @@ src="https://img.shields.io/github/followers/AlvaroPerezRamos?logo=github&style=
 
 ## :musical_note: Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u4zttqs73lkfzjukap1kr6bgs&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=u4zttqs73lkfzjukap1kr6bgs&redirect=true)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AlvaroPerezRamos/AlvaroPerezRamos/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AlvaroPerezRamos/AlvaroPerezRamos/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/AlvaroPerezRamos/AlvaroPerezRamos/output/github-contribution-grid-snake.svg"
+  />
+</picture>
